@@ -1,0 +1,7 @@
+﻿Модель,Precision,Recall,F1-score,mAP50,mAP50-95,Путь
+yolo11n_emergency_50ep-3,0.9249,0.9001,0.9124,0.9435,0.7622,C:\Users\Артен\Desktop\cv-practice-project\results\local_training\yolo11n_emergency_50ep-3\results.csv
+yolo11s_emergency_50ep,0.8993,0.9178,0.9084,0.9249,0.7503,C:\Users\Артен\Desktop\cv-practice-project\results\local_training\yolo11s_emergency_50ep\results.csv
+yolov8l_emergency_50ep_local,0.8756,0.9128,0.8938,0.9314,0.7604,C:\Users\Артен\Desktop\cv-practice-project\results\local_training\yolov8l_emergency_50ep_local\results.csv
+yolov8m_emergency_50ep,0.9163,0.9003,0.9082,0.9285,0.7431,C:\Users\Артен\Desktop\cv-practice-project\results\collab_trainig\yolov8m_emergency_50ep\results.csv
+yolov8n_emergency_50ep,0.8859,0.9323,0.9085,0.9386,0.7568,C:\Users\Артен\Desktop\cv-practice-project\results\collab_trainig\yolov8n_emergency_50ep\results.csv
+yolov8s_emergency_50ep,0.8728,0.9281,0.8996,0.9295,0.7478,C:\Users\Артен\Desktop\cv-practice-project\results\collab_trainig\yolov8s_emergency_50ep\results.csv
